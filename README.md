@@ -5,6 +5,7 @@
 A lot of this repo is just us pushing different parts of the code together so it is a bit messy. We put everything into one single older versions folder. The only files you actually need are:
 - FINAL_FINALVERSION.ipynb
 - report.pdf
+The preview of the report might not load directly on github, but when you download the repository as a zip (or directly the report individually) there is no problem to read it.
 - and the messy_datasets_new_version directory
 
 ## What _not_ to open from the repository
