@@ -2,7 +2,16 @@
 # Read the readme for instructions
 
 ## What to open from the repository
-A lot of this repo is just us pushing different parts of the code together so it is a bit messy. The only files you actually need are:
+A lot of this repo is just us pushing different parts of the code together so it is a bit messy. We put everything into one single older versions folder. The only files you actually need are:
 - FINAL_FINALVERSION.ipynb
 - report.pdf
-- and the datasets
+- and the messy datasets directory
+
+## How to run the code
+- Download the FINAL_FINALVERSION.ipynb notebook and the messy datasets, and store in a folder
+- Open the folder in VS Code
+- Run all cells
+
+## What does the report contain ?
+Our report covers everything from the question and original datasets, our methods, results, limitations and difficulties, and the key terms and formulas needed to understand our project and the insights given.
+Most terms are summarily explained in the notebook as well, in commentary or in markdown.
